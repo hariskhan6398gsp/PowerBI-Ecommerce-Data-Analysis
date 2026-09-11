@@ -186,26 +186,6 @@ The dashboard can help business teams:
 * Analyze pricing changes
 * Identify opportunities for improving sales and customer engagement
 
----
-
-##  Project Files
-
-```text
-PowerBI-Ecommerce-Data-Analysis/
-│
-├── README.md
-├── Ecommerce_Data_Analysis.pbix
-├── Promotion.csv.xlsx
-├── Sales_Data_Ecommerce.csv
-│
-└── screenshots/
-    ├── overview-dashboard.png
-    ├── pricing-promotion.png
-    ├── search-recommendation.png
-    └── insights.png
-```
-
----
 
 ##  How to Use This Project
 
